@@ -9,7 +9,7 @@ class appBarImageContainer extends StatelessWidget {
     return Container(
         width: 50,
         height: 64.23,
-decoration: BoxDecoration(
+decoration: const BoxDecoration(
 // image: DecorationImage(
 // image: NetworkImage("https://via.placeholder.com/62x47"),
 // fit: BoxFit.fill,
